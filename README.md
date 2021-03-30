@@ -1,0 +1,3 @@
+# trydjango-app
+
+Trydjango blog
